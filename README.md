@@ -11,6 +11,9 @@ This is my personal portfolio website built with **Next.js**. It showcases selec
 - About, Skills, Contact sections
 - Dynamic routing and optimized image loading
 
+## 📁 Folder Structure
+
+```plaintext
 .
 ├── app/ # Application routes and layout (Next.js App Router)
 ├── assets/ # Custom fonts, images, icons, etc.
@@ -19,6 +22,7 @@ This is my personal portfolio website built with **Next.js**. It showcases selec
 ├── README.md # Project overview and documentation
 ├── package.json # Project metadata and scripts
 └── next.config.js # Next.js configuration
+```
 
 ## 🛠️ Tech Stack
 
