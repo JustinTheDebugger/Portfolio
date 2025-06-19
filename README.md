@@ -27,8 +27,9 @@ This is my personal portfolio website built with **Next.js**. It showcases selec
 ## 🛠️ Tech Stack
 
 - Framework: [Next.js](https://nextjs.org/)
-- Styling: CSS Modules / Tailwind CSS (based on your setup)
-- Deployment: Vercel / Netlify (based on where you host it)
+- Styling: Tailwind CSS
+- Deployment: Vercel
+- Design: Figma (https://www.figma.com/design/5vdw0MKHh7cp21h3F3UTry/Portfolio-UI---William?node-id=0-1&p=f)
 
 ## 🔗 Live Site
 
