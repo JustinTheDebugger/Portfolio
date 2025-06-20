@@ -1,7 +1,31 @@
-/* @import url("https://fonts.googleapis.com/css2?family=Ovo&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Outfit&display=swap"); */
+@import url("https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&family=Ovo&display=swap");
 @import "tailwindcss";
 
+:root {
+  /* Fonts */
+  --font-outfit: "Outfit", sans-serif;
+  --font-ovo: "Ovo", serif;
+
+  /* Colors */
+  --color-light-hover: #fcf4ff;
+  --color-dark-hover: #2a004a;
+  --dark-theme: #11001f;
+}
+
 * {
-  font-family: "Outfit", sans-serif;
+  font-family: var(--font-outfit);
+}
+
+/* Custom font utility classes */
+.font-outfit {
+  font-family: var(--font-outfit);
+}
+
+.font-ovo {
+  font-family: var(--font-ovo);
+}
+
+/* Custom background hover utility */
+.hover\:bg-lightHover:hover {
+  background-color: var(--color-light-hover);
 }
