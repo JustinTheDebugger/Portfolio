@@ -29,3 +29,12 @@
 .hover\:bg-lightHover:hover {
   background-color: var(--color-light-hover);
 }
+
+/* Custom shadow utility */
+.hover\:shadowBlack:hover {
+  box-shadow: 4px 4px 0 #000;
+}
+
+.hover\:shadowWhite:hover {
+  box-shadow: 4px 4px 0 #fff;
+}
