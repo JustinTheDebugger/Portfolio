@@ -10,6 +10,7 @@ This is my personal portfolio website built with **Next.js**. It showcases selec
 - Project showcase section with links to GitHub/code/live demos
 - About, Skills, Contact sections
 - Dynamic routing and optimized image loading
+- web3form integration
 
 ## 📁 Folder Structure
 
